@@ -2,6 +2,7 @@
 Java Microservices: CQRS &amp; Event Sourcing with Kafka
 
 Functionality of code down below
+
 Handle commands and raise events.
 
 Use the mediator pattern to implement command and query dispatchers.
