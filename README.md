@@ -1,7 +1,7 @@
 # bank-account
 Java Microservices: CQRS &amp; Event Sourcing with Kafka
 
-                        <h1>---------------Functionality of code down below---------------</h1>
+                        ---------------Functionality of code down below---------------
 
 Handle commands and raise events.
 
@@ -32,7 +32,7 @@ Replay the event store to recreate the entire read database.
 Replay the event store to recreate the entire read database into a different database type - PostgreSQL.
 
 
-All Docker commands and dependencies!
+                        ---------------All Docker commands and dependencies---------------
 
 #1. Java Development Kit (JDK)
 
